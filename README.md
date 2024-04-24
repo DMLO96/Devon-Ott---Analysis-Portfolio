@@ -3,6 +3,7 @@ Thanks for coming this deep into my portfolio! My name is Devon Ott and I am a D
 Academically, I have a history with Sociology and Statistics. At 19, I was promoted to Assistant Manager of a resteraunt and have since gained further work experience in various operational techniques.
 Upon discovering the field of Data Analytics I recieved certification and applied my statistical skills to learning SQL and visualization softwares. Thankfully I was able to approach my certificate
 having long term experience with spreadsheets.
+[Click Here To See Tableau Visualizations](https://public.tableau.com/app/profile/devon.ott/vizzes)
 
 
 ## Noteable Projects:
