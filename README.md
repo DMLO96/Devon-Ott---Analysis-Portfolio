@@ -1,10 +1,11 @@
+# About Me
 Thanks for coming this deep into my portfolio! My name is Devon Ott and I am a Data Analyst based out of Northeast Ohio.
 Academically, I have a history with Sociology and Statistics. At 19, I was promoted to Assistant Manager of a resteraunt and have since gained further work experience in various operational techniques.
 Upon discovering the field of Data Analytics I recieved certification and applied my statistical skills to learning SQL and visualization softwares. Thankfully I was able to approach my certificate
 having long term experience with spreadsheets.
 
 
-Noteable Projects:
+## Noteable Projects:
 
 SQL - Movie Opening Revenue (With Tableau Visualization)
   This SQL project involves anaylzing movie releases with the top earning openeing weekends since 1983. The SQL anaylsis demonstrates Disney's recent record breaking streak,
