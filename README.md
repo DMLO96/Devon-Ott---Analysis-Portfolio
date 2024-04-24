@@ -13,4 +13,4 @@ having long term experience with spreadsheets.
   and used bar charts to show that Super Hero films have preformed well even before Disney caught hold of Marvel. (PDF must be downloaded to access link)
 
   ### Excel - Bike Data Cleaning and Visualizing
-          With this project I was tasked with cleaning a dirty data set for an international mountain bike supplier. I have provided a zip file with the original file, the clean file, a cleaning log, and visualizations showing profit for the month. There is one entry that can not be solved without access to inventory reports.
+  With this project I was tasked with cleaning a dirty data set for an international mountain bike supplier. I have provided a zip file with the original file, the clean file, a cleaning log, and visualizations showing profit for the month. There is one entry that can not be solved without access to inventory reports.
